@@ -31,3 +31,7 @@ DELETE:
 
 
 <!-- https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf -->
+
+
+Draggable template 
+<!-- https://mdbootstrap.com/plugins/jquery/draggable/ -->
